@@ -1,2 +1,2 @@
 # Radio - pinned to N900AUCUBMI9_N900AATTBMI9_ATT
-lib/libsec-ril.so:vendor/lib/libsec-ril.att.so
+lib/libsec-ril.so:vendor/lib/libsec-ril.att.so|00d2c386633340ccd4bf8ae9315d5feaa48939c3

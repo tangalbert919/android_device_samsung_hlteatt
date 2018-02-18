@@ -100,8 +100,8 @@ void init_target_properties()
         cdma_properties("Sprint", "310120", "8", "1", "spr");
     } else if (bootloader.find("N900A") == 0) {
         /* hlteatt */
-        property_override("ro.build.fingerprint", "samsung/hlteuc/hlteatt:4.3/JSS15J/N900AUCUBMI9:user/release-keys");
-        property_override("ro.build.description", "hlteuc-user 4.3 JSS15J N900AUCUBMI9 release-keys");
+        property_override("ro.build.fingerprint", "samsung/hlteuc/hlteatt:4.4.2/KOT49H/N900AUCUCNC2:user/release-keys");
+        property_override("ro.build.description", "hlteuc-user 4.4.2 KOT49H N900AUCUCNC2 release-keys");
         property_override("ro.product.model", "SAMSUNG-SM-N900A");
         property_override("ro.product.device", "hlteatt");
         gsm_properties("att");
