@@ -18,5 +18,5 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 $(call inherit-product, device/samsung/hlte/full_hlte.mk)
 
-PRODUCT_DEVICE := hlte
-PRODUCT_NAME := lineage_hlte
+PRODUCT_DEVICE := hlteatt
+PRODUCT_NAME := lineage_hlteatt
